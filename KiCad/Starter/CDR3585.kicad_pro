@@ -500,7 +500,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Starter.kicad_pro",
+    "filename": "CDR3585.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -541,9 +541,9 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "plots/",
       "pos_files": "",
-      "specctra_dsn": "",
+      "specctra_dsn": "../../../../../../../Downloads/CDR3585.dsn",
       "step": "v1.0.0/model.step",
       "svg": "",
       "vrml": ""
